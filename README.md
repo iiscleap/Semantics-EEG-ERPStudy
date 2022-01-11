@@ -2,4 +2,4 @@
 Stimuli set used for the semantic learning study.
 Both audio and its transcription is available.
 
-A short sample session of our experiment is available in the "videos" directory.
+A short sample session of our experiment is given as experiment_demo.mp4 video file.
